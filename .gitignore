@@ -1,0 +1,58 @@
+# ===== Data files (large Sentinel-1 products) =====
+data/*.zip
+data/*.SAFE
+data/**/*.SAFE
+data/**/*.tif
+data/**/*.tiff
+data/**/*.dim
+data/**/*.data/
+
+# ===== SNAP processing intermediates =====
+*.dim
+*.data/
+*.snap
+
+# ===== Output products =====
+output/*.tif
+output/*.tiff
+output/*.geojson
+output/*.shp
+output/*.shx
+output/*.dbf
+output/*.prj
+output/*.cpg
+output/*.kmz
+output/*.kml
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ===== Jupyter Notebook =====
+.ipynb_checkpoints/
+*.ipynb_metadata/
+
+# ===== Environment =====
+.env
+.venv/
+env/
+venv/
+*.env
+
+# ===== IDE =====
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+desktop.ini

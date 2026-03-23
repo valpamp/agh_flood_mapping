@@ -1,0 +1,12 @@
+numpy
+matplotlib
+rasterio
+geopandas
+shapely
+fiona
+requests
+tqdm
+folium
+leafmap
+mapclassify
+esa-snappy

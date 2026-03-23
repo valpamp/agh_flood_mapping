@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(\"F:\\\\Valerio\\\\agh_fire_detection\\\\notebooks\\\\fire_detection.ipynb\")",
+      "Bash(\"F:\\\\Valerio\\\\agh_fire_detection\\\\notebooks\\\\fire_detection_challenge.ipynb\")"
+    ]
+  }
+}
