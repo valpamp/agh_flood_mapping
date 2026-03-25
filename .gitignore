@@ -1,12 +1,3 @@
-# ===== Data files (large Sentinel-1 products) =====
-data/*.zip
-data/*.SAFE
-data/**/*.SAFE
-data/**/*.tif
-data/**/*.tiff
-data/**/*.dim
-data/**/*.data/
-
 # ===== SNAP processing intermediates =====
 *.dim
 *.data/
